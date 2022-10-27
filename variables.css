@@ -1,0 +1,18 @@
+:root {
+
+/* text */ 
+    --clr-prm-blue:hsl(238, 29%, 16%) ;
+    --clr-prm-red:hsl(14, 88%, 65%) ;
+    --clr-neu-vdBlue:hsl(237, 12%, 33%) ;
+    --clr-neu-gBlue:hsl(240, 6%, 50%) ;
+
+/* gradient */ 
+    --clr-grd-violet:hsl(273, 75%, 66%);
+    --clr-grd-blue:hsl(240, 73%, 65%) ;
+
+    --clr-divider:hsl(240, 5%, 91%) ;
+
+    --ff-primary: 'Kumbh Sans', sans-serif;
+    --fw-reg:400; 
+    --fw-bold:700; 
+}
